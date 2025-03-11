@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\WebBanSet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8B83CB-F7BB-4DAE-92CF-99043994FFFE}|WebBanSet\\WebBanSet.csproj|m:\\webbanset\\webbanset\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C8B83CB-F7BB-4DAE-92CF-99043994FFFE}|WebBanSet\\WebBanSet.csproj|solutionrelative:webbanset\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8B83CB-F7BB-4DAE-92CF-99043994FFFE}|WebBanSet\\WebBanSet.csproj|m:\\webbanset\\webbanset\\views\\productimages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C8B83CB-F7BB-4DAE-92CF-99043994FFFE}|WebBanSet\\WebBanSet.csproj|solutionrelative:webbanset\\views\\productimages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8B83CB-F7BB-4DAE-92CF-99043994FFFE}|WebBanSet\\WebBanSet.csproj|m:\\webbanset\\webbanset\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8B83CB-F7BB-4DAE-92CF-99043994FFFE}|WebBanSet\\WebBanSet.csproj|solutionrelative:webbanset\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8B83CB-F7BB-4DAE-92CF-99043994FFFE}|WebBanSet\\WebBanSet.csproj|m:\\webbanset\\webbanset\\controllers\\productimagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8B83CB-F7BB-4DAE-92CF-99043994FFFE}|WebBanSet\\WebBanSet.csproj|solutionrelative:webbanset\\controllers\\productimagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8B83CB-F7BB-4DAE-92CF-99043994FFFE}|WebBanSet\\WebBanSet.csproj|m:\\webbanset\\webbanset\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8B83CB-F7BB-4DAE-92CF-99043994FFFE}|WebBanSet\\WebBanSet.csproj|solutionrelative:webbanset\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8B83CB-F7BB-4DAE-92CF-99043994FFFE}|WebBanSet\\WebBanSet.csproj|m:\\webbanset\\webbanset\\models\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8B83CB-F7BB-4DAE-92CF-99043994FFFE}|WebBanSet\\WebBanSet.csproj|solutionrelative:webbanset\\models\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8B83CB-F7BB-4DAE-92CF-99043994FFFE}|WebBanSet\\WebBanSet.csproj|m:\\webbanset\\webbanset\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C8B83CB-F7BB-4DAE-92CF-99043994FFFE}|WebBanSet\\WebBanSet.csproj|solutionrelative:webbanset\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8B83CB-F7BB-4DAE-92CF-99043994FFFE}|WebBanSet\\WebBanSet.csproj|m:\\webbanset\\webbanset\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8B83CB-F7BB-4DAE-92CF-99043994FFFE}|WebBanSet\\WebBanSet.csproj|solutionrelative:webbanset\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8B83CB-F7BB-4DAE-92CF-99043994FFFE}|WebBanSet\\WebBanSet.csproj|m:\\webbanset\\webbanset\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8B83CB-F7BB-4DAE-92CF-99043994FFFE}|WebBanSet\\WebBanSet.csproj|solutionrelative:webbanset\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8B83CB-F7BB-4DAE-92CF-99043994FFFE}|WebBanSet\\WebBanSet.csproj|m:\\webbanset\\webbanset\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8B83CB-F7BB-4DAE-92CF-99043994FFFE}|WebBanSet\\WebBanSet.csproj|solutionrelative:webbanset\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8B83CB-F7BB-4DAE-92CF-99043994FFFE}|WebBanSet\\WebBanSet.csproj|m:\\webbanset\\webbanset\\migrations\\productdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8B83CB-F7BB-4DAE-92CF-99043994FFFE}|WebBanSet\\WebBanSet.csproj|solutionrelative:webbanset\\migrations\\productdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8B83CB-F7BB-4DAE-92CF-99043994FFFE}|WebBanSet\\WebBanSet.csproj|m:\\webbanset\\webbanset\\migrations\\20250311073122_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8B83CB-F7BB-4DAE-92CF-99043994FFFE}|WebBanSet\\WebBanSet.csproj|solutionrelative:webbanset\\migrations\\20250311073122_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8B83CB-F7BB-4DAE-92CF-99043994FFFE}|WebBanSet\\WebBanSet.csproj|m:\\webbanset\\webbanset\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C8B83CB-F7BB-4DAE-92CF-99043994FFFE}|WebBanSet\\WebBanSet.csproj|solutionrelative:webbanset\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8B83CB-F7BB-4DAE-92CF-99043994FFFE}|WebBanSet\\WebBanSet.csproj|m:\\webbanset\\webbanset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8B83CB-F7BB-4DAE-92CF-99043994FFFE}|WebBanSet\\WebBanSet.csproj|solutionrelative:webbanset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8B83CB-F7BB-4DAE-92CF-99043994FFFE}|WebBanSet\\WebBanSet.csproj|m:\\webbanset\\webbanset\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8B83CB-F7BB-4DAE-92CF-99043994FFFE}|WebBanSet\\WebBanSet.csproj|solutionrelative:webbanset\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "M:\\WebBanSet\\WebBanSet\\Views\\ProductImages\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebBanSet\\Views\\ProductImages\\Create.cshtml",
+              "ToolTip": "M:\\WebBanSet\\WebBanSet\\Views\\ProductImages\\Create.cshtml",
+              "RelativeToolTip": "WebBanSet\\Views\\ProductImages\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T08:36:13.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "M:\\WebBanSet\\WebBanSet\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBanSet\\Views\\Products\\Index.cshtml",
+              "ToolTip": "M:\\WebBanSet\\WebBanSet\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "WebBanSet\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAiwC8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T08:15:40.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250311073122_init.cs",
+              "DocumentMoniker": "M:\\WebBanSet\\WebBanSet\\Migrations\\20250311073122_init.cs",
+              "RelativeDocumentMoniker": "WebBanSet\\Migrations\\20250311073122_init.cs",
+              "ToolTip": "M:\\WebBanSet\\WebBanSet\\Migrations\\20250311073122_init.cs",
+              "RelativeToolTip": "WebBanSet\\Migrations\\20250311073122_init.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:31:23.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "M:\\WebBanSet\\WebBanSet\\appsettings.json",
+              "RelativeDocumentMoniker": "WebBanSet\\appsettings.json",
+              "ToolTip": "M:\\WebBanSet\\WebBanSet\\appsettings.json",
+              "RelativeToolTip": "WebBanSet\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T07:21:56.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "M:\\WebBanSet\\WebBanSet\\Program.cs",
+              "RelativeDocumentMoniker": "WebBanSet\\Program.cs",
+              "ToolTip": "M:\\WebBanSet\\WebBanSet\\Program.cs",
+              "RelativeToolTip": "WebBanSet\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:21:31.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "M:\\WebBanSet\\WebBanSet\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "WebBanSet\\Models\\ProductImage.cs",
+              "ToolTip": "M:\\WebBanSet\\WebBanSet\\Models\\ProductImage.cs",
+              "RelativeToolTip": "WebBanSet\\Models\\ProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:13:07.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "M:\\WebBanSet\\WebBanSet\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebBanSet\\Controllers\\HomeController.cs",
+              "ToolTip": "M:\\WebBanSet\\WebBanSet\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebBanSet\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:57:48.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "M:\\WebBanSet\\WebBanSet\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "WebBanSet\\Controllers\\CategoriesController.cs",
+              "ToolTip": "M:\\WebBanSet\\WebBanSet\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "WebBanSet\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:57:33.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "M:\\WebBanSet\\WebBanSet\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebBanSet\\Controllers\\ProductsController.cs",
+              "ToolTip": "M:\\WebBanSet\\WebBanSet\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebBanSet\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:55:09.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDBContext.cs",
+              "DocumentMoniker": "M:\\WebBanSet\\WebBanSet\\Models\\ProductDBContext.cs",
+              "RelativeDocumentMoniker": "WebBanSet\\Models\\ProductDBContext.cs",
+              "ToolTip": "M:\\WebBanSet\\WebBanSet\\Models\\ProductDBContext.cs",
+              "RelativeToolTip": "WebBanSet\\Models\\ProductDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:18:03.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductImagesController.cs",
+              "DocumentMoniker": "M:\\WebBanSet\\WebBanSet\\Controllers\\ProductImagesController.cs",
+              "RelativeDocumentMoniker": "WebBanSet\\Controllers\\ProductImagesController.cs",
+              "ToolTip": "M:\\WebBanSet\\WebBanSet\\Controllers\\ProductImagesController.cs",
+              "RelativeToolTip": "WebBanSet\\Controllers\\ProductImagesController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAuwAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:58:26.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductDBContextModelSnapshot.cs",
+              "DocumentMoniker": "M:\\WebBanSet\\WebBanSet\\Migrations\\ProductDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebBanSet\\Migrations\\ProductDBContextModelSnapshot.cs",
+              "ToolTip": "M:\\WebBanSet\\WebBanSet\\Migrations\\ProductDBContextModelSnapshot.cs",
+              "RelativeToolTip": "WebBanSet\\Migrations\\ProductDBContextModelSnapshot.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:38:57.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "M:\\WebBanSet\\WebBanSet\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebBanSet\\Views\\Products\\Create.cshtml",
+              "ToolTip": "M:\\WebBanSet\\WebBanSet\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "WebBanSet\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T08:13:25.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "M:\\WebBanSet\\WebBanSet\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "WebBanSet\\Models\\Category.cs",
+              "ToolTip": "M:\\WebBanSet\\WebBanSet\\Models\\Category.cs",
+              "RelativeToolTip": "WebBanSet\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:06:01.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "M:\\WebBanSet\\WebBanSet\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebBanSet\\Models\\Product.cs",
+              "ToolTip": "M:\\WebBanSet\\WebBanSet\\Models\\Product.cs",
+              "RelativeToolTip": "WebBanSet\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:03:21.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
